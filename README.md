@@ -4,7 +4,7 @@ A music player website fully *secure*, *responsive* and *userfriendly*.
 
 **Tech-Used:-** React, HTML, CSS, Javascript, Tailwind css, Git-Github.
 
-## Features:-
+## Features:
 1) List and display all available songs.
 2) Play and pause songs seamlessly.
 3) Forward and backward navigation between tracks.
