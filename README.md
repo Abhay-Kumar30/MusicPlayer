@@ -13,7 +13,6 @@ A music player website fully *secure*, *responsive* and *userfriendly*.
 6) Implemented React Router for smooth navigation.
 7) Utilized React Hooks for state and component management.
 
-
 ## ScreenShort
 
 ![Image 1](https://github.com/user-attachments/assets/f6538571-d5ab-429d-afd3-01a038c10e2c)
