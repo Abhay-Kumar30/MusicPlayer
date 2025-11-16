@@ -8,7 +8,7 @@ A music player website fully *secure*, *responsive* and *userfriendly*.
 1) List and display all available songs.
 2) Play and pause songs seamlessly.
 3) Forward and backward navigation between tracks.
-4) Jump to a specific time within a song using the progress bar.
+4) Jump to a specific time within a song using the progress bar
 5) Fully responsive design for all screen sizes.
 6) Implemented React Router for smooth navigation.
 7) Utilized React Hooks for state and component management.
