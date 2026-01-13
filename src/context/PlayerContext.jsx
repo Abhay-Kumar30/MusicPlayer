@@ -3,7 +3,6 @@ import { songsData } from "../assets/assets";
 
 export const PlayerContext = createContext();
 
-
 const PlayerContextProvider = (props) => {
   const audioRef = useRef(null);
   const seekBg = useRef();
